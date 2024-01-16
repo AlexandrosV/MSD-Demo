@@ -1,0 +1,4 @@
+/venv
+/services/__pycache__/
+.gitignore
+/.aws-sam
