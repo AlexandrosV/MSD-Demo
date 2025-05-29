@@ -1,5 +1,5 @@
 ---
 # List of files to include in the documentation
-- /application/bitcoin.py
-- /application/controlles.py
-- /application/dymano.py
+- application/bitcoin.py
+- application/controllers.py
+- application/dynamo.py
